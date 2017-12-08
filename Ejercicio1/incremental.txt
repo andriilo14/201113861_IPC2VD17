@@ -1,0 +1,6 @@
+Metodologia Iterativo Incremental
+Fase Preparacion
+Fase Definicion
+Fase prototipado
+Fase Preparacion final
+Fase de lanzamiento y soporte

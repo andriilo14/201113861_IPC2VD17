@@ -1,0 +1,6 @@
+Metodologia en cascada
+El análisis de requerimientos consiste en reunir las necesidades del producto y casi siempre su salida es texto.
+El diseño describe la estructura interna del producto y suele representarse con diagramas y texto.
+La implementación significa programación. Producto de esta etapa es el código en cualquier nivel, incluido el producido por sistemas de generación automática.
+Pruebas: Las pruebas nos van a permitir ver si el sistema que se está desarrollando es funcional
+Mantenimiento: Despues de la instalacion se debe realizar el mantenimiento al proyecto.

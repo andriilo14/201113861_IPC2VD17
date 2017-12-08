@@ -1,0 +1,8 @@
+Ciclo de Vida del Software
+
+Planificacion: Se analizan brevemente los requerimientos que el ciente necesita
+Desarrollo: es básicamente la parte donde los programadores empiezan a codificar o desarrollar el sistema que se necesita
+Pruebas: Las pruebas nos van a permitir ver si el sistema que se está desarrollando es funcional
+Documentacion: Se crea conforme van avanzando o al final del proyecto, lo recomendable es antes.
+Despliegue: Es el producto final ya listo para instalarse.
+Mantenimiento: Despues de la instalacion se debe realizar el mantenimiento al proyecto.
