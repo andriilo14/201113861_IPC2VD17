@@ -1,0 +1,5 @@
+Cuestionario
+
+Commit: Es ir realizando versiones de un proyecto, le llamamos versiones ya que seran cambios los que se estaran realizando.
+Merge: Es cuando se van realizando versiones de manera paralela, y al final se construira uno solo que incluira todos los cambios realizados en forma paralela.
+Diferencia entre pull y push: El push se utiliza para mandar datos modificados mientras que el pull se utiliza para recibir datos cuando necesito modificarlos.
